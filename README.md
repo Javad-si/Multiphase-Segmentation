@@ -1,2 +1,2 @@
 # Multiphase-Segmentation
-The provided notebook contains the four different auto-encoder structures utilized for the semantic segmentation of two-phase flow experiment images.
+The provided notebooks contain four different autoencoder structures utilized for the semantic segmentation of two-phase flow experiment images.
